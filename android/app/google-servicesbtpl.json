@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "450873976449",
+    "project_id": "trackcaronline-d9aa1",
+    "storage_bucket": "trackcaronline-d9aa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450873976449:android:c5ecdb0f6152f06d4fcf80",
+        "android_client_info": {
+          "package_name": "com.track.vehitrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450873976449-phgh0foa85lb8gu0k387rue5aalkp06s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJKk9R7oOXW0XKJq-inWci0pj8zkJgN6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450873976449-phgh0foa85lb8gu0k387rue5aalkp06s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "450873976449-f6oinonps4nqt1kponrh7akr1ce4pgpa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myvtsproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450873976449:android:87d1c7804a1f93f54fcf80",
+        "android_client_info": {
+          "package_name": "com.btpltech.gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450873976449-phgh0foa85lb8gu0k387rue5aalkp06s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJKk9R7oOXW0XKJq-inWci0pj8zkJgN6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450873976449-phgh0foa85lb8gu0k387rue5aalkp06s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "450873976449-f6oinonps4nqt1kponrh7akr1ce4pgpa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myvtsproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450873976449:android:22e8e063cddae0a84fcf80",
+        "android_client_info": {
+          "package_name": "com.example.myvtsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450873976449-phgh0foa85lb8gu0k387rue5aalkp06s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJKk9R7oOXW0XKJq-inWci0pj8zkJgN6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450873976449-phgh0foa85lb8gu0k387rue5aalkp06s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "450873976449-f6oinonps4nqt1kponrh7akr1ce4pgpa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myvtsproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450873976449:android:fd223b74e49bbb2a4fcf80",
+        "android_client_info": {
+          "package_name": "com.tracandtrackcar.gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450873976449-phgh0foa85lb8gu0k387rue5aalkp06s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJKk9R7oOXW0XKJq-inWci0pj8zkJgN6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450873976449-phgh0foa85lb8gu0k387rue5aalkp06s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "450873976449-f6oinonps4nqt1kponrh7akr1ce4pgpa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myvtsproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450873976449:android:a075e52a65bd971d4fcf80",
+        "android_client_info": {
+          "package_name": "com.trackcaronlines.gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450873976449-phgh0foa85lb8gu0k387rue5aalkp06s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJKk9R7oOXW0XKJq-inWci0pj8zkJgN6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450873976449-phgh0foa85lb8gu0k387rue5aalkp06s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "450873976449-f6oinonps4nqt1kponrh7akr1ce4pgpa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myvtsproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

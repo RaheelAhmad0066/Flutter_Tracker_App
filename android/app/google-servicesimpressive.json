@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603626967259",
+    "project_id": "impressive-gpswox",
+    "storage_bucket": "impressive-gpswox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603626967259:android:f84c7d315912f58c8d7cfe",
+        "android_client_info": {
+          "package_name": "com.track.vehitrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603626967259-krfjcqi9jkuacsgjp73e7vv5i8ehu5t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeMi_9dBV-e9EPGD9JwEAU0FhtTvlzyug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603626967259-krfjcqi9jkuacsgjp73e7vv5i8ehu5t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
